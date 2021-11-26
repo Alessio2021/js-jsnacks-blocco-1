@@ -33,7 +33,6 @@ while (i < invitation.length && find == false) {
     if (nomeInput == invitation[i]) {
         find = true
     }
-
     i++
 }
 
